@@ -1,0 +1,11 @@
+2024-07-23 17:09:02,481 - JobSpy - INFO - LinkedIn search page: 1
+2024-07-23 17:09:02,481 - JobSpy - INFO - Indeed search page: 1
+2024-07-23 17:09:02,657 - JobSpy - INFO - ZipRecruiter search page: 1
+2024-07-23 17:09:03,173 - JobSpy - INFO - Glassdoor search page: 1
+2024-07-23 17:09:03,800 - JobSpy - INFO - ZipRecruiter finished scraping
+2024-07-23 17:09:04,653 - JobSpy - INFO - Glassdoor finished scraping
+2024-07-23 17:09:08,496 - JobSpy - INFO - Indeed finished scraping
+2024-07-23 17:09:10,552 - JobSpy - INFO - LinkedIn search page: 2
+2024-07-23 17:09:11,372 - JobSpy - INFO - Linkedin finished scraping
+Headers are:
+['id', 'site', 'job_url', 'job_url_direct', 'title', 'company', 'location', 'job_type', 'date_posted', 'salary_source', 'interval', 'min_amount', 'max_amount', 'currency', 'is_remote', 'job_level', 'job_function', 'company_industry', 'listing_type', 'emails', 'description', 'company_url', 'company_url_direct', 'company_addresses', 'company_num_employees', 'company_revenue', 'company_description', 'logo_photo_url', 'banner_photo_url', 'ceo_name', 'ceo_photo_url']
